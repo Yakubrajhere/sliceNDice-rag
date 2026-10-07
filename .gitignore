@@ -1,0 +1,15 @@
+# Secrets
+.env
+
+# Generated
+vectorstore/*
+!vectorstore/.gitkeep
+vectorstore/
+data/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.idea/
+.vscode/
+.DS_Store
